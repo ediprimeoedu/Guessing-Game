@@ -33,7 +33,7 @@ def main():
                 print("Thanks for playing! Goodbye!")
                 break
         except ValueError:
-            print("Please enter a valid number for the limit.")
+            print("Please enter a valid number for the limit. ")
 
 if __name__ == "__main__":
     main()
